@@ -60,5 +60,6 @@
     "//div[@style='display: flex; flex-direction: row; align-items: center; gap: 6px;']/p[contains(text(), 'Next')]",
     "//p[@class='_text_16x1w_17' and @style='color: rgb(0, 0, 0);']/text()",
     "//div[@role='button' and contains(@class, 'flex flex-col items-center p-6 font-bold text-center rounded bg-slate-100')]"
+    "//*[@id="7"]"
   ]
 }
