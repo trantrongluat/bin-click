@@ -64,5 +64,7 @@
     "//div[text()='Become a member']",
     "://button[text()='Vote']",
     "//*[text()=\"Get Started\"]",
+    "//button[text()='Get Started']"
+
   ]
 }
