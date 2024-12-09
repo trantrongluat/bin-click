@@ -63,6 +63,6 @@
     "//*[@id="7"]",
     "//div[text()='Become a member']",
     "://button[text()='Vote']",
-    "//button[text()='Get Started']"
+    "//*[text()=\"Get Started\"]",
   ]
 }
