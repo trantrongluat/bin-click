@@ -61,6 +61,7 @@
     "//button[text()='Vote']",
     "//*[text()='Get Started']",
     "//button[text()='Get Started']",
-    "//button[contains(@class, 'bg-[#1A751C]') and text()='Get Started']"
+    "//button[contains(@class, 'bg-[#1A751C]') and text()='Get Started']",
+    "//button[text()='catch the bag']"
   ]
 }
